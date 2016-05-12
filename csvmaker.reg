@@ -1,0 +1,3 @@
+Windows Registry Editor Version 5.00
+ [HKEY_CLASSES_ROOT\*\Shell\Make CSV\command]
+@="\"C:\\Python27\\python.exe\" \"D:\\myScripts\\csvmaker\\main.py\" \"%1\""
